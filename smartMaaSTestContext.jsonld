@@ -3,7 +3,7 @@
     "ApiService": "http://example.org/ApiService",
     "requestLocation": "http://example.org/requestLocation",
     "requesterID": "http://example.org/requesterID",
-    "dataConsumer": "http://example.org/dataConsumer",
+    "dataConsumer": "http://example.org/dataConsumer"
     "requestParameters": "http://example.org/requestParameters",
     "response-Flixbus-tomp": "http://example.org/response-Flixbus-tomp",
     "responderID": "http://example.org/responderID",
