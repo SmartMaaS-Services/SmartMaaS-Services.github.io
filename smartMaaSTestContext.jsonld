@@ -1,0 +1,13 @@
+{
+  "@context": {
+    "ApiService": "http://example.org/ApiService",
+    "requestLocation": "http://example.org/requestLocation",
+    "requesterID": "http://example.org/requesterID",
+    "dataConsumer": "http://example.org/dataConsumer"
+    "requestParameters": "http://example.org/requestParameters",
+    "response-Flixbus-tomp": "http://example.org/response-Flixbus-tomp",
+    "responderID": "http://example.org/responderID",
+    "response": "http://example.org/response",
+    "response-Flixbus-orig": "http://example.org/response-Flixbus-orig"
+  }
+}
