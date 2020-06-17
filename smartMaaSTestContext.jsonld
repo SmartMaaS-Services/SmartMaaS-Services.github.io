@@ -2,10 +2,12 @@
   "@context": {
     "ApiService": "http://example.org/ApiService",
     "requestLocation": "http://example.org/requestLocation",
+    "name": "http://example.org/name",
+    "expires": "http://example.org/expires",
     "requesterID": "http://example.org/requesterID",
     "dataConsumer": "http://example.org/dataConsumer",
     "requestParameters": "http://example.org/requestParameters",
-    "response-Flixbus-tomp": "http://example.org/response-Flixbus-tomp",
+    "response-Flixbus": "http://example.org/response-Flixbus",
     "responderID": "http://example.org/responderID",
     "response": "http://example.org/response",
     "response-Flixbus-orig": "http://example.org/response-Flixbus-orig"
