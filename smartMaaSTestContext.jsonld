@@ -9,7 +9,7 @@
     "requestParameters": "http://example.org/requestParameters",
     "response-Flixbus": "http://example.org/response-Flixbus",
     "responderID": "http://example.org/responderID",
-    "response": "http://example.org/response",
-    "response-Flixbus-orig": "http://example.org/response-Flixbus-orig"
+    "dataProvider": "http://example.org/dataProvider",
+    "source": "http://example.org/source"
   }
 }
