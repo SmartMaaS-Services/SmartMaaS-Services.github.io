@@ -3,7 +3,7 @@
     "ApiService": "http://example.org/ApiService",
     "requestLocation": "http://example.org/requestLocation",
     "serviceName": "http://example.org/serviceName",
-    "dateExpiration": "http://example.org/dateExpiration",
+    "expiresAt": "http://example.org/expiresAt",
     "requesterID": "http://example.org/requesterID",
     "dataConsumer": "http://example.org/dataConsumer",
     "requestParameters": "http://example.org/requestParameters",
