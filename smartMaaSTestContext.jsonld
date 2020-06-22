@@ -10,6 +10,7 @@
     "response-Flixbus": "http://example.org/response-Flixbus",
     "responderID": "http://example.org/responderID",
     "dataProvider": "http://example.org/dataProvider",
-    "source": "http://example.org/source"
+    "source": "http://example.org/source",
+    "flowFileName": "http://example.org/flowFileName"
   }
 }
